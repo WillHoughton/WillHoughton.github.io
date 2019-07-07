@@ -1,0 +1,92 @@
+body{
+    background-color: #C9D1D5;
+}
+
+/* Main Stuff Start */
+#main{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#left{
+    width: 30%;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 8%;
+    margin-left: 20%;
+    
+}
+
+#right{
+    width: 30%;
+    margin-right: 20%;
+    margin-top: 18%;
+    font-family: 'Nunito', sans-serif;
+}
+/* Main Stuff End */
+
+
+#will{
+    border-radius: 50%;
+    width: 200px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+#name{
+    margin-left:29%;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px
+}
+
+#job1{
+    background-color: #0289FE;
+    border: 10px solid #0289FE;
+    color: white;
+    font-size: 15px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    margin-left:34.5%;
+    border-radius:10px;
+    margin-top: 3%;
+}
+
+#birth{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    margin-left:26.5%;
+    margin-top: 2%;
+}
+
+#place{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    margin-left: 23%;
+    margin-top: 2%;
+}
+
+#heading{
+    font-size: 35px;
+    font-weight:bold;
+    margin-bottom:2%;
+    
+}
+
+#subHeading{
+    font-weight: 900;
+}
+
+#introWords{
+    margin-top:30px;
+    border-left: 1px solid black;
+    padding-left: 20px;
+}
+
+#arrow{
+    margin-top: 7%;
+    width: 6%;
+    margin-left: 42%;
+    margin-right: 40%;
+    position: absolute;
+}
+
