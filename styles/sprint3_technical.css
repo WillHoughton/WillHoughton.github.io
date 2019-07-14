@@ -1,0 +1,66 @@
+*{
+    background-image: url('https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    border: 20px solid #D3D3D3;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin:20px auto;
+    font-family: Nunito, sans-serif;
+}
+
+.header{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.topPart{
+    padding-left: 10px;
+    border-left: 4px solid #bcd3c7;
+}
+
+.date{
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: darkgrey;
+    padding-bottom:30px;
+}
+
+.bottomPart{
+    padding-bottom:20px;
+    border-bottom: .5px solid #A9A9A9;
+}
+
+p{
+    margin-left: 10px;
+}
+
+.highlight{
+    border-left: 3px solid #eeeeee;
+    border-right: 3px solid #eeeeee;
+    background: #eeeeee;
+    font-weight: bold;
+    border-radius: 4%;
+}
+
+.lists{
+    line-height: 180%;
+}
+
+#arrayExplanation{
+    height:70px;
+    margin-left: 10px;
+}
+
+#objectExample{
+    height:150px;
+    margin-left: 10px;
+}
+#accessArrayData{
+    height:100px;
+    margin-left: 10px;
+}
